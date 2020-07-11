@@ -1,5 +1,5 @@
 ### Yuji, kim / @ug-kim
-👋Hello! Welcome to my GitHub page. I am DGIST undergraduate student. My main areas of interest are Computer Vision, Machine Learning & Deep Leearning, and Backend Development.
+👋 Hello! Welcome to my GitHub page. I am DGIST undergraduate student. My main areas of interest are Computer Vision, Machine Learning & Deep Leearning, and Backend Development.
 
 
 ### 💬 About me
