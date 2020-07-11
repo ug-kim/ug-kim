@@ -2,17 +2,17 @@
 👋Hello! Welcome to my GitHub page. I am DGIST undergraduate student. My main areas of interest are Computer Vision, Machine Learning & Deep Leearning, and Backend Development.
 
 
-### 💬About me
+### 💬 About me
 - https://ug-kim.github.io
 
 
-### 🌱Languages
+### 🌱 Languages
 - Python
 - Go
 - C++ (beginner)
 
 
-### 📫How to reach me
+### 📫 How to reach me
 - email: ugkim816@gmail.com
 - facebook: https://www.facebook.com/yuji.kim.1004
 
