@@ -1,10 +1,18 @@
-### Yuji, kim / @ug-kim
+### Yuji, kim | @ug-kim
 
-👋 Hello! Welcome to my GitHub page. I am DGIST undergraduate student. My main areas of interest are Machine Learning & Deep Leearning, and Backend Development.
+- 👋 Hello! Welcome to my GitHub page.
+- 🌏 I want to contribute to changing the world with AI.
+- 🌱 My main areas of interest are Machine Learning, Deep Leearning, and Backend Development.
+
 
 ### 💬 About me
 
-- https://ug-kim.github.io
+<p align='center'>
+<a href="https://ug-kim.oopy.io/"><img src="https://img.shields.io/badge/CV__Site-000000?style=flat&logo=Notion&logoColor=white">
+<a href="mailto:ug_kim@dgist.ac.kr"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link=">
+<a href="https://www.linkedin.com/in/%EC%9C%A0%EC%A7%80-%EA%B9%80-b57022186/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white">
+<a href="https://www.facebook.com/yuji.kim.1004/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white">
+</p>
 
 <!--
 **ug-kim/ug-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
