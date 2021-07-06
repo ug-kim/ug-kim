@@ -1,6 +1,6 @@
 ### Yuji Kim | @ug-kim
 
-- 👋 Hello! Welcome to my GitHub page.
+- 👋 Hello! I am a master student at Algorithmic Machine Intelligence Lab, Postech AI.
 - 🌏 I want to contribute to changing the world with AI.
 - 🌱 My main areas of interest are Machine Learning, Deep Leearning, and Backend Development.
 
