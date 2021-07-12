@@ -5,7 +5,7 @@
 - 🌱 My main areas of interest are Machine Learning, Deep Leearning, and Backend Development.
 
 
-### 💬 About me
+### About me
 
 <p align='center'>
 <a href="https://ug-kim.oopy.io/"><img src="https://img.shields.io/badge/CV__Site-000000?style=flat&logo=HomeAdvisor&logoColor=white">
