@@ -1,6 +1,6 @@
 ### Yuji Kim | @ug-kim
 
-- 👋 Hello! I am a master student at Algorithmic Machine Intelligence Lab, Postech AI.
+- 👋 Hello! I am a master student at Algorithmic Machine Intelligence Lab @ Postech AI.
 - 🌏 I want to contribute to changing the world with AI.
 - 🌱 My main areas of interest are Machine Learning, Deep Learning, and mainly Computer Vision.
 
