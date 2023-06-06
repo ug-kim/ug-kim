@@ -1,7 +1,7 @@
 ### Yuji Kim | @ug-kim
 
 - 👋 Hello! I am a master student at Algorithmic Machine Intelligence Lab @ Postech AI.
-- 🌱 My main areas of interest are Machine Learning, Deep Learning, and mainly Computer Vision.
+- 🌱 My main areas of interest are making clear 3D understanding by realistic 3D reconstruction and generation to enable authentic communication in the the virtual world.
 
 
 ### About me
