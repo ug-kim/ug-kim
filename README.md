@@ -1,4 +1,4 @@
-### Yuji Kim | @ug-kim
+### Yu-Ji Kim | @ug-kim
 
 - 👋 Hello! I am an integrated M.S. and Ph.D. student at Algorithmic Machine Intelligence Lab @ POSTECH AI.
 - 🌱 My main areas of interest are making clear 3D understanding by realistic 3D reconstruction and generation to enable authentic communication in the virtual world.
