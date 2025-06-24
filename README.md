@@ -1,7 +1,7 @@
 ### Yu-Ji Kim | @ug-kim
 
 - 👋 Hello! I am a Ph.D. student at POSTECH AI and advised Prof. Tae-Hyun Oh of KAIST Advanced Machine Intelligence Lab (AMI Lab).
-- 🌱 My main areas of interest are making clear 3D understanding by realistic 3D reconstruction and generation to enable authentic communication in the virtual world.
+- 🌱 My main areas of interest are building 3D worlds to enable realistic and authentic scene understanding. My research interests are on 3D reconstruction, generation, and perception, but not limited to.
 
 
 ### About me
