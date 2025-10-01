@@ -1,7 +1,7 @@
 ### Yu-Ji Kim | 3D Vision: Reconstruction, Generation, and Perception
 
 - 👋 Hello! I am a Ph.D. student at POSTECH AI and advised by Prof. Tae-Hyun Oh of KAIST Advanced Machine Intelligence Lab (AMI Lab).
-- 🌱 My main areas of interest are building 3D worlds to enable realistic and authentic scene understanding. My research interests are on 3D reconstruction, generation, and perception, but not limited to.
+- 🌱 My main areas of interest are building realistic 3D worlds to enable holistic scene understanding. My research interests are on 3D reconstruction, generation, and understanding, but not limited to.
 
 <p align='center'>
 <a href="https://ug-kim.github.io/"><img src="https://img.shields.io/badge/CVsite-000000?style=flat&logo=HomeAdvisor&logoColor=white">
